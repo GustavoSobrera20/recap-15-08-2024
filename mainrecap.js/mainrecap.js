@@ -1,4 +1,4 @@
-/*idade = 0
+idade = 0
 
 idade = prompt("digite sua idade")
   if (idade >= 18){
@@ -56,4 +56,6 @@ else if(operacao == "divisao"){
 }
 else if(operacao == "multiplicacao"){
   alert(parseInt(num1) * parseInt(num2))
-}*/
+}
+
+/*atividade realizada apos a voltas das ferias 
