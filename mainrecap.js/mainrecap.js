@@ -58,4 +58,4 @@ else if(operacao == "multiplicacao"){
   alert(parseInt(num1) * parseInt(num2))
 }
 
-/*atividade realizada apos a voltas das ferias 
+/*atividade realizada apos a voltas das ferias */
